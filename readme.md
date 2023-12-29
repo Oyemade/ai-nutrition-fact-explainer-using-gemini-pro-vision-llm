@@ -5,24 +5,24 @@ This project uses the Gemini Pro Vision LLM (Google Generative AI) library to ge
 ## Installation
 
 1. Clone the repository
-   \```sh
+   ```sh
    git clone https://github.com/Oyemade/ai-nutrition-fact-explainer-using-gemini-pro-vision-llm
-   \```
+   ```
 2. Install the dependencies
-   \```sh
+   ```sh
    npm install
-   \```
+   ```
 
 ## Usage
 
 1. Add your Google API key to the `.env` file
-   \```env
+   ```env
    GOOGLE_API_KEY=your_google_api_key
-   \```
+   ```
 2. Run the script with Node.js
-   \```sh
+   ```sh
    node index.js
-   \```
+   ```
 
 ## Functionality
 
